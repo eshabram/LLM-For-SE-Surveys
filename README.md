@@ -21,3 +21,6 @@ Data used by the `Prompt_Engineering_Techniques.ipynb`.
 
 ### stackoverlow-survey-questions.md
 - A place to store the survey questions used in the final experimental setup for research questions 1 and 2.
+
+### ECS260 Project Work and Results.pdf
+- A place to store our ideas and plans throughout the project.
